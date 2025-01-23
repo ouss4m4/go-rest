@@ -1,0 +1,41 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build outputs
+*.out
+
+# Go Modules
+/go.sum
+/vendor/
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+
+# macOS-specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Test binaries
+*.test
+
+# Coverage files
+*.cover
+coverage.out
+
+# Debugging files
+__debug_bin
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Go race detector logs
+*.trace
+*.pprof
