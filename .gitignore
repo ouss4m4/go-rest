@@ -3,10 +3,12 @@
 *.dll
 *.so
 *.dylib
-
+.env
 # Build outputs
 *.out
-
+tmp
+uploads
+storage
 # Go Modules
 /go.sum
 /vendor/
